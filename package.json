@@ -35,5 +35,8 @@
     "url": "git://github.com/root/chirpy.git"
   },
   "author": "root",
-  "license": ""
+  "license": "",
+  "devDependencies": {
+    "jade": "^1.9.1"
+  }
 }
